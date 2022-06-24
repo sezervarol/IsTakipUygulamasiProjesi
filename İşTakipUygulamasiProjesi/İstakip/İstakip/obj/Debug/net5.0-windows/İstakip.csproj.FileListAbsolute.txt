@@ -1,0 +1,226 @@
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.AssemblyReference.cache
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.GenerateResource.cache
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfoInputs.cache
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfo.cs
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CoreCompileInputs.cache
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.exe
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.deps.json
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.json
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.dev.json
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CopyComplete
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.genruntimeconfig.cache
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.İstakipform.resources
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.projeekleform.resources
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.firmaekleform.resources
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.bolumekleform.resources
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.mudurayarlarform.resources
+C:\Users\Onur Şen\source\repos\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.personelekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.exe
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.deps.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.dev.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.AssemblyReference.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.bolumekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.firmaekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.İstakipform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.mudurayarlarform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.personelekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.projeekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.GenerateResource.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfoInputs.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfo.cs
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CoreCompileInputs.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CopyComplete
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.genruntimeconfig.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\onur salman sezer proje\Istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.BolumBitiriciForm.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.exe
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.deps.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.dev.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.AssemblyReference.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.BolumBitiriciForm.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.bolumekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.firmaekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.İstakipform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.mudurayarlarform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.personelekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.projeekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.GenerateResource.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfoInputs.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfo.cs
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CoreCompileInputs.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CopyComplete
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.genruntimeconfig.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\bin\Debug\net5.0-windows\SimpleTCP.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\Yeni klasör\İstakip12032022\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.tcpconnection.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.exe
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.deps.json
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.json
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.dev.json
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.pdb
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\SimpleTCP.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.AssemblyReference.cache
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.BolumBitiriciForm.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.bolumekleform.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.firmaekleform.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.İstakipform.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.mudurayarlarform.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.personelekleform.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.projeekleform.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.tcpconnection.resources
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.GenerateResource.cache
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfoInputs.cache
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfo.cs
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CoreCompileInputs.cache
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CopyComplete
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.pdb
+C:\Users\PC3EĞİTMEN\Desktop\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.genruntimeconfig.cache
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.exe
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.deps.json
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.json
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.dev.json
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.pdb
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\SimpleTCP.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.AssemblyReference.cache
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.BolumBitiriciForm.resources
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.bolumekleform.resources
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.firmaekleform.resources
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.İstakipform.resources
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.mudurayarlarform.resources
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.personelekleform.resources
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.projeekleform.resources
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.tcpconnection.resources
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.GenerateResource.cache
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfoInputs.cache
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfo.cs
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CoreCompileInputs.cache
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CopyComplete
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.pdb
+C:\Users\PC3EĞİTMEN\Desktop\Projeler\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.genruntimeconfig.cache
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.exe
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.deps.json
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.json
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.dev.json
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\SimpleTCP.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.AssemblyReference.cache
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.BolumBitiriciForm.resources
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.bolumekleform.resources
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.firmaekleform.resources
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.İstakipform.resources
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.mudurayarlarform.resources
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.personelekleform.resources
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.projeekleform.resources
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.tcpconnection.resources
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.GenerateResource.cache
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfoInputs.cache
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfo.cs
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CoreCompileInputs.cache
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CopyComplete
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Sezer VAROL\Downloads\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.genruntimeconfig.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.exe
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.deps.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.runtimeconfig.dev.json
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\SimpleTCP.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.AssemblyReference.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.BolumBitiriciForm.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.bolumekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.firmaekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.İstakipform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.mudurayarlarform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.personelekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.projeekleform.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.tcpconnection.resources
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.GenerateResource.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfoInputs.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.AssemblyInfo.cs
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CoreCompileInputs.cache
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.csproj.CopyComplete
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\ref\İstakip.dll
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.pdb
+C:\Users\Sezer VAROL\OneDrive\Masaüstü\sınıf projeleri\İştakipProgramıProjesi\4_grup_istakip\4_grup_istakip\İstakip\İstakip\obj\Debug\net5.0-windows\İstakip.genruntimeconfig.cache
